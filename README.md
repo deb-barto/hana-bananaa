@@ -1,11 +1,11 @@
 ![capa github](https://uploaddeimagens.com.br/images/003/315/931/original/capa_github.png?1625156314)
 <center>
-  <table>
+<table>
     <tr>
-        <td><img width="400px" align="left" src="" /></td>
-        <td><img width="495px" align="left" src=""/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana-bananaa&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hana-bananaa&theme=buefy"/></td>
     </tr>   
-  </table>
+</table>
 </center>  
 
 ## Boas vindas ao meu Git!
