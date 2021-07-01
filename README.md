@@ -13,7 +13,7 @@
 ---
 
 Sou estudante de matemática pura e estou explorando e investindo meus estudos na área de Dev.
-Amo ler livros de ficção científica :robot: e patinhos :duck: e sou mãe de um gato idoso chamado Ion! :cat: 
+Amo ler livros de ficção científica :robot:, patinhos :duck: e sou mãe de um gato idoso chamado Ion! :cat: 
 
 Sou apaixonada por conhecimento, amo tecnologias, exatas e humanas. :books:
 
