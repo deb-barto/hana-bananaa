@@ -19,7 +19,7 @@ Sou mãe de um gato idoso chamado Ion! :cat:
 
 Sou apaixonada por conhecimento, amo tecnologias, exatas e humanas. :books:
 
-### Onde me encontrar? :love letter:
+### Onde me encontrar? 💌:
 
 <a href="https://www.instagram.com/dii_lua/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/debra_barto/)  
 
