@@ -12,10 +12,11 @@
 
 ---
 
-Sou estudante de Matemática Pura na UFRGS e estou explorando e investindo meus estudos na área de Dev.
+Sou estudante de Matemática Pura na UFRGS e estou explorando e investindo meus estudos na área de Dev Full Stack.
 Amo ler livros de ficção científica :robot:, patinhos :duck: e sou mãe de um gato idoso chamado Ion! :cat: 
 
-Sou apaixonada por conhecimento, amo tecnologias, exatas e humanas. :books:
+Quero ser uma eterna exploradora do saber! Sou apaixonada por conhecimento, amo tecnologias, exatas e humanas. :books:
+
 
 ### Onde me encontrar? :love_letter:
 
