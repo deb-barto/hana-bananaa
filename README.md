@@ -1,4 +1,4 @@
-![capa github](https://uploaddeimagens.com.br/images/003/315/931/original/capa_github.png?1625156314)
+![capa github](https://uploaddeimagens.com.br/imagens/i-RIUfw)
 <center>
 <table>
     <tr>
